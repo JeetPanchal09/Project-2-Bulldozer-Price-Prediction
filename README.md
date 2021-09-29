@@ -34,6 +34,7 @@ Test.csv is the test set, which won't be released until the last week of the com
 ## 3. Evaluation
 
 
+
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
 
