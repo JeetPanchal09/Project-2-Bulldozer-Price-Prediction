@@ -5,7 +5,9 @@
 # 🚜 Predicting the Sale Price of Bulldozers using Machine Learning
 
 
+
 In this notebook, we're going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
+
 
 
 ## 1. Problem defition
@@ -15,6 +17,7 @@ How well can we predict the future sale price of a bulldozer, given its characte
 
 
 ## 2. Data
+
 
 The data is downloaded from the Kaggle Bluebook for Bulldozers competition: https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
@@ -47,5 +50,6 @@ Note: The goal for most regression evaluation metrics is to minimize the error. 
 
   
 ## 4. Features
+
 
 Kaggle provides a data dictionary detailing all of the features of the dataset. You can view this data dictionary on Google Sheets: https://docs.google.com/spreadsheets/d/18ly-bLR8sbDJLITkWG7ozKm8l3RyieQ2Fpgix-beSYI/edit?usp=sharing
